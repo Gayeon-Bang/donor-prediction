@@ -1,0 +1,9 @@
+# 원본·중간 데이터 (재배포 불가, 대용량)
+data/*
+!data/README.md
+*.csv
+!results/*.csv
+*.xlsx
+catboost_info/
+.ipynb_checkpoints/
+__pycache__/
